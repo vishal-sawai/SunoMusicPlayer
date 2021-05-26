@@ -1,0 +1,32 @@
+@media only screen and (max-width:1024px) {
+    .main {
+        background: url("img/mobile.jpg")no-repeat center center/cover;
+    }
+    .app {
+        padding: 10%;
+    }
+    .app h1 {
+        font-size: 90px;
+        margin-top: 10px;
+        margin-bottom: 20px;
+    }
+    .app img {
+        height: 300px;
+    }
+    .app a {
+        padding: 10px 100px;
+        font-size: 80px;
+        border-radius: 10px;
+    }
+    .image {
+        margin-top: 50%;
+        margin-bottom: 50%;
+        padding: 10% 1%;
+        border: 2px solid;
+        width: 90%;
+    }
+    .ss img {
+        margin: 0px 50px;
+        height: 450px;
+    }
+}

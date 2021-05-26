@@ -1,0 +1,49 @@
+*{
+    padding: 0;
+    margin: 0;
+    color: white;
+}
+.main{
+    background: url("img/joey-kyber-45FJgZMXCK8-unsplash.jpg")no-repeat center center/cover;
+}
+.app{
+    background-color: rgba(0, 0, 0, 0.26);
+    padding:2%;
+    text-align: center;
+     margin: auto;
+}
+.app h1{
+    margin-top: 5px;
+    margin-bottom: 10px;
+}
+.app img{
+    height: 150px;
+}
+.app a{
+      text-decoration: none;
+      border: 2px solid; 
+      padding: 5px 50px;
+      font-size: 20px;
+      border-radius: 5px;
+      background-color: rgb(0, 107, 0);
+}
+.app a:hover{
+    background-color: rgb(34, 102, 34);
+}
+.ss{
+    background-color: rgba(0, 0, 0, 0.26);
+    margin: auto;
+   text-align: center;
+}
+.image{
+    margin: auto;
+    padding: 2%;
+    border: 1px solid;
+    width: 60%;
+    background-color: rgba(0, 0, 0, 0.26);
+    border-radius: 50px;
+}
+.ss img{
+    margin: 0px 30px;
+    height: 300px;
+}
